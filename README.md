@@ -3,8 +3,10 @@
 Team Leaders: Hafiz Azeem Abbas
 Team members:
 
-    - Scope input & MUX: Pakistan3
-    - ADC: Pakistan4	
-    - DAC: Pakistan1	
-    - AWG output & MUX: Pakistan5	
-    - Clocking: Pakistan2/6
+    - DAC: Pakistan_01	
+    - Clock Generator: Pakistan_02
+    - Scope input & MUX: Pakistan_03
+    - ADC: Pakistan_04	
+    - AWG output & MUX: Pakistan_05	
+    - Clock Generator: Pakistan_06
+
